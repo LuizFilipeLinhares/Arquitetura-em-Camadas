@@ -12,7 +12,7 @@ O artigo está disponível na aba **Wiki** deste repositório no GitHub.
 
 ## Autor
 
-- [Luiz Filipe Linhares]  
+- Luiz Filipe Linhares  
 
 ---
 
